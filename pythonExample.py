@@ -1,5 +1,6 @@
 
 
 def doSomeThing():
-    print("Hello there!")
+    name = "Enyason"
+    print("Hello there! welcome $name to this program")
     
